@@ -1,0 +1,30 @@
+THEME: ROLL OF THE DICE
+
+NAME: FATE OF THE DICE
+
+- Endless Shooter(wave by wave kinda thing) 
+
+- The dice will...
+    - roll every wave
+    - decide what type of enemy you will face
+    - decide the number of enemies you will face
+        - It will be a multiplier 
+        - Rolls a num between 1-3.5
+    - the curses you receive after every 5 waves
+    - the relics you will receive when you procure one, choices will be shown, and changed every wave
+
+- Relics and curses will have different buffs and debuffs: 
+    - Curse that makes dogs chase after you for a few waves
+    - Relics that give release a pulse that pushes enemies away
+
+- Types of enemies
+    - Large, Contact, Healthy, Strong Enemies that chase you, and split into 2 small enemies when they die
+    - Small, Fast, Shooter Enemies that chase you
+    - Stationary enemies that spawn at random spots and shoot out lasers, it's like whack a mole
+    - Big, Strong Enemies that throw large boulders at you while chasing you
+
+- Goal is to try to get the highest wave possible
+- Enemies that grow increasingly stronger after each wave
+
+- 3D view of the dice being rolled  
+    - Dice will be shaked up in a cup before being shown
